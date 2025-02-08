@@ -1,1 +1,2 @@
 this is sample code for visual studio code tool
+the second line is that
